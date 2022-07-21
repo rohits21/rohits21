@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Rohit</h1>
 <h3 align="center">A guy who wants to be pro in the grammar of computer languages.</h3>
 
-- 🌱 I’m currently learning **DSA, Android Development**
+- 🌱 Currently learning **DSA and Android Development**
 
 - 📫 How to reach me **er.rohitsahu21@gmail.com**
 
