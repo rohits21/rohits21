@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **DSA and Android Development**
 
-- 📫 How to reach me **er.rohitsahu21@gmail.com**
+- 📫 Reach me **er.rohitsahu21@gmail.com**
 
 <h3 align="left">Profiles:</h3>
 <p align="left">
